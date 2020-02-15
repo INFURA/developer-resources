@@ -3,7 +3,7 @@
 ## Ethereum Libraries for Web3 connections:
 (use Infura API key as the Provider)
 #### Javascript
-[Ethers.js *most recommended*](https://docs.ethers.io/ethers.js/v5-beta/)
+[Ethers.js](https://docs.ethers.io/ethers.js/v5-beta/) *recommended*
 [Web3.js](https://github.com/ethereum/web3.js/)
 #### Python
 [web3.py](https://github.com/ethereum/web3.py)
@@ -21,10 +21,10 @@
 [ethereumex](https://github.com/mana-ethereum/ethereumex)
 
 ## Terms to know:
-Client: the software necessary to sync a blockchain and interact with it
-Node: an instance of a blockchain running a client
-Provider: A particular URL that defines which node a user is connected to. Can be local or remote
-Gateway: A remote provider, such as Infura
+*Client*: the software necessary to sync a blockchain and interact with it
+*Node*: an instance of a blockchain running a client 
+*Provider*: A particular URL that defines which node a user is connected to. Can be local or remote
+*Gateway*: A remote provider, such as Infura
 
 ## Hackathon Guides
 [Consensys’s Ultimate Ethereum Hackathon guide](https://consensys.net/developers/guides-to-ethereum-development/ultimate-ethereum-hackathon-survival-guide/)
@@ -37,8 +37,7 @@ Gateway: A remote provider, such as Infura
 
 [OpenZeppelin Guides](https://docs.openzeppelin.com/learn/)
 
-[Truffle tutorials]
-(https://www.trufflesuite.com/tutorials)
+[Truffle tutorials](https://www.trufflesuite.com/tutorials)
 
 [Truffle Drizzle with React Hooks](https://github.com/atkinsonholly/Drizzle-tutorial-with-React-Hooks)
 
@@ -46,16 +45,14 @@ Gateway: A remote provider, such as Infura
 [Infura Logs Strategy](https://blog.infura.io/faster-logs-and-events-e43e2fa13773/)
 [Events & Logs documentation](https://goethereumbook.org/event-read/)
 
-[Ethers.js & Angular](https://kauri.io/accelerating-dapp-development-with-ethersjs/805715d4e66440d996fee0930a6d
-0fbc/a)
+[Ethers.js & Angular](https://kauri.io/accelerating-dapp-development-with-ethersjs/805715d4e66440d996fee0930a6d0fbc/a)
 [Ethers.js, Angular, & IPFS](https://medium.com/better-programming/ethereum-dapp-with-ethers-js-and-ipfs-using-angular-angular-material-and-ngrx-part-i-dcf049430cbf)
 [Ethers.js dapp](https://www.zastrin.com/tutorials/build-an-ethereum-dapp-using-ethersjs)
 
 [OpenLaw Complete Dapp with Infura, Truffle, and React](https://medium.com/@OpenLawOfficial/openlaw-api-tutorial-build-a-complete-dapp-with-the-openlaw-api-truffle-react-js-d064717ad41d)
 
 [Metamask & React](https://medium.com/coinmonks/react-web-dapp-with-metamask-web3-sotp-part-4-f252ebe8d07f)
-[In-depth React Dapp tutorial]
-(https://www.dappuniversity.com/articles/ethereum-dapp-react-tutorial)
+[In-depth React Dapp tutorial](https://www.dappuniversity.com/articles/ethereum-dapp-react-tutorial)
 [Web3.js & React web-wallet guide](https://www.freecodecamp.org/news/how-to-build-an-ethereum-wallet-web-app-ac77dcaac573/)
 
 [Building a decentralized Reddit with Embark & React](https://framework.embarklabs.io/news/2019/02/04/building-a-decentralized-reddit-with-embark-part-1/)
