@@ -1,7 +1,7 @@
 # Infura & Frontends Guide
 
 ## Ethereum Libraries for Web3 connections:
-(use Infura API key as the Provider)
+(use Infura API key as the Provider/Gateway/RPC URL for these)
 #### Javascript
 [Ethers.js](https://docs.ethers.io/ethers.js/v5-beta/) *recommended*
 [Web3.js](https://github.com/ethereum/web3.js/)
@@ -22,8 +22,11 @@
 
 ## Terms to know:
 *Client*: the software necessary to sync a blockchain and interact with it
+
 *Node*: an instance of a blockchain running a client 
+
 *Provider*: A particular URL that defines which node a user is connected to. Can be local or remote
+
 *Gateway*: A remote provider, such as Infura
 
 ## Hackathon Guides
@@ -42,17 +45,23 @@
 [Truffle Drizzle with React Hooks](https://github.com/atkinsonholly/Drizzle-tutorial-with-React-Hooks)
 
 [Ethereum Logs Deepdive](https://codeburst.io/deep-dive-into-ethereum-logs-a8d2047c7371)
+
 [Infura Logs Strategy](https://blog.infura.io/faster-logs-and-events-e43e2fa13773/)
+
 [Events & Logs documentation](https://goethereumbook.org/event-read/)
 
 [Ethers.js & Angular](https://kauri.io/accelerating-dapp-development-with-ethersjs/805715d4e66440d996fee0930a6d0fbc/a)
+
 [Ethers.js, Angular, & IPFS](https://medium.com/better-programming/ethereum-dapp-with-ethers-js-and-ipfs-using-angular-angular-material-and-ngrx-part-i-dcf049430cbf)
+
 [Ethers.js dapp](https://www.zastrin.com/tutorials/build-an-ethereum-dapp-using-ethersjs)
 
 [OpenLaw Complete Dapp with Infura, Truffle, and React](https://medium.com/@OpenLawOfficial/openlaw-api-tutorial-build-a-complete-dapp-with-the-openlaw-api-truffle-react-js-d064717ad41d)
 
 [Metamask & React](https://medium.com/coinmonks/react-web-dapp-with-metamask-web3-sotp-part-4-f252ebe8d07f)
+
 [In-depth React Dapp tutorial](https://www.dappuniversity.com/articles/ethereum-dapp-react-tutorial)
+
 [Web3.js & React web-wallet guide](https://www.freecodecamp.org/news/how-to-build-an-ethereum-wallet-web-app-ac77dcaac573/)
 
 [Building a decentralized Reddit with Embark & React](https://framework.embarklabs.io/news/2019/02/04/building-a-decentralized-reddit-with-embark-part-1/)
@@ -63,12 +72,18 @@
 ## Community Resources:
 
 [Infura Community Site](www.community.infura.io)
+
 [Ethdev subreddit](www.reddit.com/r/ethdev)
+
 [Stack Overflow](http://ethereum.stackexchange.com/)
+
 [Gitter channels (advanced)](https://github.com/ethereum/wiki/wiki/gitter-channels)
+
 Youtube channels: [Dapp University](https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ/videos?view=0&sort=p&flow=grid) , [freeCodeCamp.org](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ/search?query=blockchain)
 
 ## Education:
 [Consensys Academy](https://consensys.net/academy/)
+
 [Coursera Blockchain Courses](https://www.coursera.org/courses?query=ethereum)
+
 [Udemy Blockchain Course](https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/)
