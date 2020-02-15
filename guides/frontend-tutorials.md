@@ -1,37 +1,37 @@
-#Infura & Frontends Guide
+# Infura & Frontends Guide
 
-##Ethereum Libraries for Web3 connections:
+## Ethereum Libraries for Web3 connections:
 (use Infura API key as the Provider)
-####Javascript
+#### Javascript
 [Ethers.js *most recommended*](https://docs.ethers.io/ethers.js/v5-beta/)
 [Web3.js](https://github.com/ethereum/web3.js/)
-####Python
+#### Python
 [web3.py](https://github.com/ethereum/web3.py)
-####Rust
+#### Rust
 [rust-web3](https://github.com/tomusdrw/rust-web3)
-####C++
+#### C++
 [aleth](https://github.com/ethereum/aleth)
-####PHP
+#### PHP
 [web3.php](https://github.com/sc0Vu/web3.php)
-####Java
+#### Java
 [web3j](https://github.com/web3j/web3j)
-####Ruby
+#### Ruby
 [web3-eth](https://github.com/izetex/web3-eth)
-####Elixir
+#### Elixir
 [ethereumex](https://github.com/mana-ethereum/ethereumex)
 
-##Terms to know:
+## Terms to know:
 Client: the software necessary to sync a blockchain and interact with it
 Node: an instance of a blockchain running a client
 Provider: A particular URL that defines which node a user is connected to. Can be local or remote
 Gateway: A remote provider, such as Infura
 
-##Hackathon Guides
+## Hackathon Guides
 [Consensys’s Ultimate Ethereum Hackathon guide](https://consensys.net/developers/guides-to-ethereum-development/ultimate-ethereum-hackathon-survival-guide/)
 
 [Kauri’s Tips for Starting Dapp Development](https://kauri.io/tips-for-starting-dapp-development/a6f8cae18e574e1595bd870010100c80/a)
 
-##Recommended Tutorials
+## Recommended Tutorials
 
 [Cryptozombies for Solidity & Dapp Deployment](https://cryptozombies.io/)
 
@@ -63,7 +63,7 @@ Gateway: A remote provider, such as Infura
 [Zero-knowledge dapp (advanced)](https://kndrck.co/posts/practical_guide_build_zk_dapps/)
 
 
-##Community Resources:
+## Community Resources:
 
 [Infura Community Site](www.community.infura.io)
 [Ethdev subreddit](www.reddit.com/r/ethdev)
@@ -71,7 +71,7 @@ Gateway: A remote provider, such as Infura
 [Gitter channels (advanced)](https://github.com/ethereum/wiki/wiki/gitter-channels)
 Youtube channels: [Dapp University](https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ/videos?view=0&sort=p&flow=grid) , [freeCodeCamp.org](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ/search?query=blockchain)
 
-##Education:
+## Education:
 [Consensys Academy](https://consensys.net/academy/)
 [Coursera Blockchain Courses](https://www.coursera.org/courses?query=ethereum)
 [Udemy Blockchain Course](https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/)
