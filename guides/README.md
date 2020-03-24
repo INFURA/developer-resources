@@ -1,5 +1,9 @@
 # Infura & Frontends Guide
 
+This directory contains code for the guide series on blog.infura.io
+
+Below, you can find a curated list of links and tutorials for learning web3 and frontend development for dapps. These are very useful for starting out, including reseources for hackathons and similar projects.
+
 ## Ethereum Libraries for Web3 connections:
 (use Infura API key as the Provider/Gateway/RPC URL for these)
 #### Javascript
